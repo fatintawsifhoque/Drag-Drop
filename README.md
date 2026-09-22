@@ -40,7 +40,7 @@ Experience the smooth animations live. Both versions share the exact same design
 
 | Framework | Live Preview | Source Code |
 | :--- | :--- | :--- |
-| ⚡ **Vue 3** | [🔗 View Vue Live Demo]() | [`/vue`](#) |
-| ⚛️ **React** | [🔗 View React Live Demo]() | [`/react`](#) |
+| ⚡ **Vue 3** | [🔗 View Vue Live Demo]() | [`/vue`](https://drag-drop-vue-fth.vercel.app) |
+| ⚛️ **React** | [🔗 View React Live Demo]() | [`/react`](https://drag-drop-react-fth.vercel.app) |
 
 ---
